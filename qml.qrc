@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LoginForm.qml</file>
+        <file>HomeForm.qml</file>
+        <file>CarinForm.qml</file>
+        <file>CaroutForm.qml</file>
+        <file>UserForm.qml</file>
+        <file>UserItem.qml</file>
+        <file>Car_SerialForm.qml</file>
+        <file>LocationForm.qml</file>
+        <file>HighwayForm.qml</file>
+        <file>CarForm.qml</file>
+        <file>Car_SerialItem.qml</file>
+        <file>Car_SerialChart.qml</file>
+        <file>LocationItem.qml</file>
+        <file>HighwayItem.qml</file>
+    </qresource>
+</RCC>
